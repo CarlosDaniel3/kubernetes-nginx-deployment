@@ -71,3 +71,8 @@ spec:
       targetPort: 80
   type: ClusterIP
 ```
+
+Comando para aplicar os manifestos:
+```
+kubectl apply -f ./manifests
+```
