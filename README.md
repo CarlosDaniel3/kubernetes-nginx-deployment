@@ -82,5 +82,5 @@ kubectl apply -f ./manifests
 ```
 
 <div style="display: inline_block"><br>
-    <img align="center" alt="html-screen" height="40" width="50" src="https://github.com/CarlosDaniel3/kubernetes-nginx-deployment/blob/main/assets/html-screen.png">
+    <img align="center" alt="html-screen" height="200" width="200" src="https://github.com/CarlosDaniel3/kubernetes-nginx-deployment/blob/main/assets/html-screen.png">
 </div>
