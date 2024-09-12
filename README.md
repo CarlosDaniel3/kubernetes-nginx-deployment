@@ -1,7 +1,7 @@
 # Kubernetes-nginx-Deployment
 
-## Objetivo:
-Neste exercício, você irá criar um deployment do NGINX no Kubernetes, utilizando um ConfigMap para definir o conteúdo de uma página HTML personalizada. Além disso, você irá expor o serviço e utilizar o port-forward para acessar e validar o conteúdo da página.
+## Objetivo do desafio:
+Criar um deployment do NGINX no Kubernetes, utilizando um ConfigMap para definir o conteúdo de uma página HTML personalizada. Além disso, expor o serviço e utilizar o port-forward para acessar e validar o conteúdo da página.
 
 ## Arquivos escritos
 
@@ -80,3 +80,7 @@ Comando para aplicar os manifestos:
 ```
 kubectl apply -f ./manifests
 ```
+
+<div style="display: inline_block"><br>
+    <img align="center" alt="html-screen" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/docker/html-screen.svg">
+</div>
