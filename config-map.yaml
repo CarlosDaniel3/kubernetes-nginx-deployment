@@ -1,0 +1,13 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: my-html-file
+data:
+  index.html: |
+    <html>
+      <head><title>My HTML page</title></head>
+      <body>
+        <h1>NGINX DEPLOYMENT</h1>
+        <p>Welcome to my HTML page!</p>
+      </body>
+    </html>
