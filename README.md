@@ -5,7 +5,6 @@ Criar um deployment do NGINX no Kubernetes, utilizando um ConfigMap para definir
 
 ## Arquivos criados
 ConfigMap
-
 ```yaml
 ---
 apiVersion: v1
