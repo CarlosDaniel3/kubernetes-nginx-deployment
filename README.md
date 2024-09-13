@@ -81,6 +81,6 @@ Comando para aplicar os manifestos:
 kubectl apply -f ./manifests
 ```
 
-<div style="display: inline_block"><br>
-    <img align="center" alt="html-screen" height="200" width="200" src="https://github.com/CarlosDaniel3/kubernetes-nginx-deployment/blob/main/assets/html-screen.png">
+<div style="text-align: center"><br>
+    <img align="center" alt="html-screen" height="200px" width="200px" src="https://github.com/CarlosDaniel3/kubernetes-nginx-deployment/blob/main/assets/html-screen.png">
 </div>
