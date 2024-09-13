@@ -15,7 +15,7 @@ data:
   index.html: |
     <html>
       <head><title>My HTML page</title></head>
-      <body>
+      <body align="center">
         <h1>NGINX DEPLOYMENT</h1>
         <p>Welcome to my HTML page!</p>
       </body>
