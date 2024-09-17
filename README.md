@@ -71,6 +71,7 @@ spec:
       targetPort: 80
   type: ClusterIP
 ```
+## Comandos
 Comando para criar o cluster por meio do kind
 ```
 kind create cluster --config=kind-config.yaml
